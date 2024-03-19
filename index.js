@@ -16,6 +16,6 @@ document.querySelector("button").addEventListener("click", function (){
     else if (number1 < number2){
         document.querySelector(".result").innerHTML = "Player 2 is the WINNER!🚩";
     } else {
-        document.querySelector(".result").innerHTML = "🚩DRAWN!🚩";
+        document.querySelector(".result").innerHTML = "🚩DRAW!🚩";
     }
 })
