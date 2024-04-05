@@ -19,3 +19,4 @@ document.querySelector("button").addEventListener("click", function (){
         document.querySelector(".result").innerHTML = "🚩TIE!🚩";
     }
 })
+
