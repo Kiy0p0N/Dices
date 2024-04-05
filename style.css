@@ -39,7 +39,7 @@ h1{
 }
 
 button{
-    background-color: #fa2424;
+    background:linear-gradient(#ffc774, #b07d31,#fb6d6d);
     border: #b10000 2px solid;
     border-radius: 10%;
     color: aliceblue;
